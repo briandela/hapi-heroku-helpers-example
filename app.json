@@ -1,0 +1,5 @@
+{
+  "name": "hapi-heroku-helpers example",
+  "description": "Example heroku app which uses the hapi-heroku-helpers plugin.",
+  "keywords": ["node", "hapi"]
+}

@@ -1,0 +1,22 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Heroku Hapi Helpers Example</title>
+</head>
+
+<body>
+
+    <p>
+        <b>Remote IP:</b> {{request.info.remoteAddress}}<br>
+        This would normally be the internal IP address of the heroku router
+    </p>
+
+    <p>
+        <b>Remote Port:</b> {{request.info.remotePort}}<br>
+        This would normally be the port that the site is running on inside the heroku network
+    </p>
+
+</body>
+</html>

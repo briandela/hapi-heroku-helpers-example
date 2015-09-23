@@ -1,0 +1,34 @@
+{
+  "name": "hapi-heroku-helpers-example",
+  "version": "1.0.0",
+  "description": "Example heroku app which uses the hapi-heroku-helpers plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briandela/hapi-heroku-helpers-example.git"
+  },
+  "keywords": [
+    "hapi",
+    "heroku",
+    "hapi-heroku-helpers",
+    "https",
+    "heroku",
+    "hapi-plugin",
+    "hapi.js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briandela/hapi-heroku-helpers-example/issues"
+  },
+  "homepage": "https://github.com/briandela/hapi-heroku-helpers-example#readme",
+  "dependencies": {
+    "handlebars": "^4.0.2",
+    "hapi": "^10.0.1",
+    "hapi-heroku-helpers": "^1.0.5",
+    "vision": "^3.0.0"
+  }
+}
