@@ -1,6 +1,6 @@
 {
   "name": "hapi-heroku-helpers-example",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Example heroku app which uses the hapi-heroku-helpers plugin",
   "main": "index.js",
   "scripts": {
@@ -26,9 +26,9 @@
   },
   "homepage": "https://github.com/briandela/hapi-heroku-helpers-example#readme",
   "dependencies": {
-    "handlebars": "^4.0.2",
-    "hapi": "^10.0.1",
-    "hapi-heroku-helpers": "^1.0.5",
-    "vision": "^3.0.0"
+    "handlebars": "^4.0.5",
+    "hapi": "^12.1.0",
+    "hapi-heroku-helpers": "^2.0.0",
+    "vision": "^4.0.1"
   }
 }
